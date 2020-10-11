@@ -1,7 +1,12 @@
+body {
+	font-family: Tahoma, Geneva, sans-serif;
+}
 h1 {
-	font-size: 75%;
+	font-size: 175%;
 }
 
 section {
-	font-size: 25%;
+	font-size: 125%;
+	background-color: gray;
+	border: black;
 }
